@@ -1,6 +1,6 @@
 Simple styled form app that saves user entry in local storage and display back on the page
 
-Live Demo 
+Live Demo https://alikachef.github.io/HTML-Form/
 
 ![image](https://user-images.githubusercontent.com/70487686/177561757-b92a43aa-a616-439a-8ce9-ac2326998962.png)
 
